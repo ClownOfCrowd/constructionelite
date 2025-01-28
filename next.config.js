@@ -7,8 +7,6 @@ const nextConfig = {
     domains: ['i.postimg.cc'],
     unoptimized: true,
   },
-  output: 'standalone',
-  distDir: '.next',
 };
 
 module.exports = nextConfig;
