@@ -5,10 +5,10 @@ const nextConfig = {
   i18n,
   images: {
     domains: ['i.postimg.cc'],
-    unoptimized: true, // Добавляем эту опцию для Netlify
+    unoptimized: true,
   },
-  distDir: 'dist', // Указываем, чтобы сборка происходила в папку `dist`
-
+  output: 'standalone',
+  distDir: '.next',
 };
 
 module.exports = nextConfig;
