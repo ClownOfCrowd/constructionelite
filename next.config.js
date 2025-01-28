@@ -8,7 +8,7 @@ const nextConfig = {
     unoptimized: true, // Добавляем эту опцию для Netlify
   },
   distDir: 'dist', // Указываем, чтобы сборка происходила в папку `dist`
-  target: 'serverless', // Добавляем настройки для Netlify
+
 };
 
 module.exports = nextConfig;
