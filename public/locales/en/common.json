@@ -1,0 +1,76 @@
+{
+  "company": {
+    "name": "Elite Construction",
+    "slogan": "Building the future, preserving the past"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "description": "Construction and renovation experts with over 20 years of experience.",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "newsletter": "Newsletter",
+    "newsletterText": "Subscribe to receive the latest news and updates.",
+    "emailPlaceholder": "Your email",
+    "subscribe": "Subscribe",
+    "rights": "All rights reserved."
+  },
+  "hero": {
+    "title": "Transforming your dreams into reality",
+    "subtitle": "Quality construction and innovative design",
+    "cta": "Request a quote"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We offer a wide range of construction and renovation services to meet all your needs",
+    "residential": {
+      "title": "Residential Construction",
+      "description": "Construction of single-family homes and residential buildings with the highest quality standards."
+    },
+    "commercial": {
+      "title": "Commercial Construction",
+      "description": "Development of modern and functional commercial spaces tailored to your business needs."
+    },
+    "renovation": {
+      "title": "Renovation",
+      "description": "Renovation and modernization of existing buildings, preserving their character while improving functionality."
+    },
+    "design": {
+      "title": "Design & Planning",
+      "description": "Comprehensive architectural design and project planning services."
+    },
+    "industrial": {
+      "title": "Industrial Construction",
+      "description": "Construction of industrial facilities and warehouses with emphasis on efficiency and durability."
+    },
+    "consulting": {
+      "title": "Consulting",
+      "description": "Expert advice throughout all phases of your construction project."
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us?",
+    "subtitle": "Discover why we are the best choice for your next construction project",
+    "experience": {
+      "title": "20+ Years of Experience",
+      "description": "Two decades of excellence in the construction industry."
+    },
+    "quality": {
+      "title": "Guaranteed Quality",
+      "description": "Unwavering commitment to the highest quality standards."
+    },
+    "team": {
+      "title": "Professional Team",
+      "description": "Highly qualified experts dedicated to your service."
+    },
+    "value": {
+      "title": "Best Value for Money",
+      "description": "Cost-effective solutions without compromising on quality."
+    }
+  }
+} 

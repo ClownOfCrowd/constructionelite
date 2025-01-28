@@ -1,0 +1,76 @@
+{
+  "company": {
+    "name": "Construccions Elite",
+    "slogan": "Construint el futur, preservant el passat"
+  },
+  "nav": {
+    "home": "Inici",
+    "services": "Serveis",
+    "portfolio": "Portafoli",
+    "about": "Nosaltres",
+    "contact": "Contacte"
+  },
+  "footer": {
+    "description": "Experts en construcció i renovació amb més de 20 anys d'experiència.",
+    "quickLinks": "Enllaços Ràpids",
+    "contactUs": "Contacteu-nos",
+    "newsletter": "Butlletí Informatiu",
+    "newsletterText": "Subscriviu-vos per rebre les últimes notícies i actualitzacions.",
+    "emailPlaceholder": "El vostre correu electrònic",
+    "subscribe": "Subscriure's",
+    "rights": "Tots els drets reservats."
+  },
+  "hero": {
+    "title": "Transformem els vostres somnis en实实在",
+    "subtitle": "Construcció de qualitat i disseny innovador",
+    "cta": "Sol·licitar pressupost"
+  },
+  "services": {
+    "title": "Els Nostres Serveis",
+    "subtitle": "Oferim una àmplia gamma de serveis de construcció i renovació per satisfer totes les vostres necessitats",
+    "residential": {
+      "title": "Construcció Residencial",
+      "description": "Construcció d'habitatges unifamiliars i edificis residencials amb els més alts estàndards de qualitat."
+    },
+    "commercial": {
+      "title": "Construcció Comercial",
+      "description": "Desenvolupament d'espais comercials moderns i funcionals adaptats a les vostres necessitats empresarials."
+    },
+    "renovation": {
+      "title": "Renovació",
+      "description": "Renovació i modernització d'edificis existents, preservant el seu caràcter i millorant la seva funcionalitat."
+    },
+    "design": {
+      "title": "Disseny i Planificació",
+      "description": "Serveis complets de disseny arquitectònic i planificació de projectes."
+    },
+    "industrial": {
+      "title": "Construcció Industrial",
+      "description": "Construcció d'instal·lacions industrials i magatzems amb èmfasi en l'eficiència i durabilitat."
+    },
+    "consulting": {
+      "title": "Consultoria",
+      "description": "Assessorament expert en totes les fases del vostre projecte de construcció."
+    }
+  },
+  "whyChooseUs": {
+    "title": "Per Què Escollir-nos?",
+    "subtitle": "Descobriu per què som la millor opció per al vostre proper projecte de construcció",
+    "experience": {
+      "title": "20+ Anys d'Experiència",
+      "description": "Dues dècades d'excel·lència en la indústria de la construcció."
+    },
+    "quality": {
+      "title": "Qualitat Garantida",
+      "description": "Compromís ferm amb els més alts estàndards de qualitat."
+    },
+    "team": {
+      "title": "Equip Professional",
+      "description": "Experts altament qualificats i dedicats al vostre servei."
+    },
+    "value": {
+      "title": "Millor Relació Qualitat-Preu",
+      "description": "Solucions rendibles sense comprometre la qualitat."
+    }
+  }
+} 
